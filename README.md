@@ -1,2 +1,2 @@
 # CMAC
-Implementation of DIscrete and Continuous CMAC
+Implementation of Discrete and Continuous CMAC
